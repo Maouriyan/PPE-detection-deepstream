@@ -1,0 +1,6 @@
+*.o
+*.cppo
+*.vcxproj
+*.so
+certs/
+cfg_aws.txt
