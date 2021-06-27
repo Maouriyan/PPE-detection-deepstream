@@ -104,6 +104,10 @@ Note: If you are using the device headless , disable EGL sink at configs/ppe_pri
 ![result](video/results.png)
 
 
+## Training
+
+- To train the model , add more datasets use [this](https://github.com/Maouriyan/PPE-detection-TLT-training).
+
 
 
 
